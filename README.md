@@ -1,13 +1,12 @@
 # Python Activity Based Learning
 
-**Name:** Lakshmi Saithi  
-**Email:** lakshmisaithi35@gmail.com  
-**Roll Number:** [Enter roll number]  
-**Branch:** [Enter branch]  
-**Section:** [Enter section]  
-**GitHub Repository URL:** [Add your GitHub repository URL after uploading]
+Name:Lakshmi Saithi   
+Roll Number:26000986
+Branch:CSM 
+Section:CSM-2
+Subject:Python
 
-## Selected Case Studies
+Selected Case Studies
 1. Simple Calculator — [`01_calculator`](01_calculator/documentation.md)
 2. Even or Odd — [`02_even_odd`](02_even_odd/documentation.md)
 3. Factorial — [`03_factorial`](03_factorial/documentation.md)
@@ -19,7 +18,4 @@
 9. Temperature Converter — [`09_temperature`](09_temperature/documentation.md)
 10. Count Vowels — [`10_vowels`](10_vowels/documentation.md)
 
-## Run
-Run `python 01_calculator/main.py` (replace the folder name for other exercises).
 
-**Note:** Output images are illustrative examples. Replace them with screenshots from your own execution if required by your instructor.
